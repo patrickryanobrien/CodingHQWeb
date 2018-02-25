@@ -31,7 +31,7 @@
     "uniqCompNum": 7,
     "versionPublish": "4.6.2",
     "screenshot": "screenshot.png",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/icons8-ireland-801-80x80.png",
     "noImageResize": "",
     "google-analytics": "",
     "cookiesAlert": "",
